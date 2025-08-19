@@ -9,6 +9,9 @@ Performance: AUC = 83.8% | Precisão = 62.5% | Recall = 50.3%
 Impacto esperado: redução de 15–25% no churn e aumento de 10–15% no LTV
 ROI: positivo em 3–6 meses
 
+### Matriz de confusão do Modelo de Regressão
+![Matriz de confusão do Modelo de Regressão](./matriz_confusao.png)
+
  Metodologia
 
 EDA – análise de distribuições, padrões e correlações.
